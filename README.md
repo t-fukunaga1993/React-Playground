@@ -14,12 +14,9 @@
 
 Voltaを利用してNode.jsとnpmのバージョンを管理します。
 
-1. [Voltaの公式サイト](https://volta.sh/)にアクセスし、インストールスクリプトをダウンロードします。
-2. ダウンロードしたインストールスクリプトを実行します。コマンドプロンプトまたはPowerShellを管理者権限で開き、以下のコマンドを実行します：
-   ```sh
-   powershell -Command "iwr https://get.volta.sh | Install-Volta"
-   ```
-3. インストールが完了したら、コマンドプロンプトまたはPowerShellを再起動します。
+1. [Voltaの公式サイト](https://volta.sh/)にアクセスし、Windows用のドキュメントを参考にインストールする。
+
+2. インストールが完了したら、コマンドプロンプトまたはPowerShellを再起動します。
 
 ### Nodeとnpmのインストール (Voltaを使用)
 
